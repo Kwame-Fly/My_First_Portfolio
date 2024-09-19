@@ -9,6 +9,8 @@ main {
     flex: auto;
 }
 article {
+    color: red;
+    background-color: skyblue;
     flex: 2;
     overflow-y: auto
 }
